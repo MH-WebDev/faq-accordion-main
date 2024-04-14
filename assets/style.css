@@ -60,7 +60,7 @@ main {
     width: auto;
     max-width: 375px;
     margin: 0 auto;
-    padding-top: 100px;
+    padding-top: 140px;
     height: 100vh;
     box-shadow: 0px 0px 50px var(--greypurple);
 }
@@ -122,6 +122,7 @@ main {
         background-image: url(./images/background-pattern-desktop.svg);
         max-width: 1440px;
         background-size: auto;
+        padding-top: 170px;
         box-shadow: 0px 0px 150px var(--greypurple);
     }
     h1 {
